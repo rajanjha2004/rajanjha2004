@@ -42,11 +42,6 @@ I love building modern, fast & user-centric web applications.
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajanjha2004&show_icons=true&theme=radical&hide_border=false&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajanjha2004&layout=compact&theme=radical&hide_border=false&border_radius=10" height="170" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajanjha2004&theme=radical&hide_border=false&border_radius=10" height="160" />
 </p>
 
