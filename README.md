@@ -7,7 +7,6 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg">
 
-<!-- Side GIF -->
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 
 # 👋 Hi, I'm Rajan Jha  
@@ -117,8 +116,10 @@ I love building modern, fast & user-centric web applications.
 
 # 👀 Profile Views
 
+
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rajanjha2004&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=rajanjha2004&style=for-the-badge&color=blue" />
 </p>
+
 
 
