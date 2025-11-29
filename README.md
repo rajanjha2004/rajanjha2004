@@ -28,8 +28,9 @@ I love building modern, fast & user-centric web applications.
 
 ### **🗄 Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
+
 
 ### **⚙️ Tools**
 <p>
