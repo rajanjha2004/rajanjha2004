@@ -118,8 +118,7 @@ I love building modern, fast & user-centric web applications.
 # 👀 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajanjha2004&style=for-the-badge&color=blue" />
+  <img src="https://visitcount.itsvg.in/api?id=rajanjha2004&label=Profile%20Views&color=12&icon=0&pretty=true" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg">
 
