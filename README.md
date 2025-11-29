@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&center=true&vCenter=true&width=900&height=90&lines=Hey!+I'm+Rajan+Jha+🔥;Full+Stack+Developer+🇮🇳;MERN+%2B+Next.js+Dev;I+Build+Modern+Web+Experiences+🚀" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/wave.svg">
-
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280">
 
 # 👋 Hi, I'm Rajan Jha  
