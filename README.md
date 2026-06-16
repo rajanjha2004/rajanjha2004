@@ -102,7 +102,7 @@ I love building modern, fast & user-centric web applications.
 <p align="center">
   <a href="https://www.linkedin.com/in/rajan-jha-276724275"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
   <a href="mailto:rajan2809jha@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
-  <a href="https://portfolio-phi-eosin-41.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>
+  <a href="https://jharajan.vercel.app/"><img src="https://skillicons.dev/icons?i=vercel" height="50"/></a>
   <a href="https://github.com/rajanjha2004"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
 </p>
 
